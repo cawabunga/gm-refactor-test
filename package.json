@@ -1,0 +1,17 @@
+{
+  "name": "gm-refactor-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "./node_modules/.bin/testem -l chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "testem": "1.9.1"
+  },
+  "dependencies": {
+    "underscore": "1.8.3"
+  }
+}
